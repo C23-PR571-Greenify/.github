@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/C23-PR571-Greenify/Greenify-Documentation/blob/main/logo.png" alt="logo" width="350" height="auto" />
+  <img src="https://github.com/C23-PR571-Greenify/Greenify-Documentation/blob/main/thumbnail.png" alt="header">
 </div>
 
 <br>
